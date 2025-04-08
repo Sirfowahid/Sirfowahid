@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">- 🎓 Computer Science graduate from IUBAT with a CGPA of 3.84  <br>- 📚 Published Q1 journal papers on AI in agriculture and construction  <br>- 🤖 Skilled in machine learning, deep learning, and full-stack web development  <br>- 💼 Worked as an AI Engineer Intern at ImpleVista, contributing to AI-powered web projects</p>
+<p align="left">- 🎓 Computer Science ang Engineering Graduate  <br>- 📚 Published Q1 journal papers on AI in agriculture and construction  <br>- 🤖 Skilled in machine learning, deep learning, and full-stack web development  <br>- 💼 Worked as an AI Engineer Intern at ImpleVista, contributing to AI-powered web projects</p>
 
 ###
 
