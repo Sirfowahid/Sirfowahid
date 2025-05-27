@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="250" src="https://github.com/Sirfowahid/Sirfowahid/blob/main/banner.png"  />
-</div>
-
 ###
 
 <div align="center">
